@@ -1,3 +1,18 @@
+# karabiner-elements-shingeta
+
+Karabiner-Elementsで、新下駄配列を使うための設定ファイル
+
+## Change logs
+
+- [shun-getto-systems/karabiner-elements-jp-keyboard-layout](https://github.com/shun-getto-systems/karabiner-elements-jp-keyboard-layout) よりフォーク
+- 「！」「？」「・」「＼」のキーアサインを修正
+- jsonファイル名とタイトル、リポジトリ名を変更
+- タイピングゲーム用の設定ファイル `shingeta_en.json` を追加
+
+=====
+
+↓ 本家のREADME
+
 # karabiner-elements-jp-keyboard-layout
 
 japanese keyboard layout for karabiner-elements
