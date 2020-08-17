@@ -1,8 +1,8 @@
 {
-  "title": "日本語用かな配列 (shun@getto.systems)",
+  "title": "新下駄配列 ver. 1.1 (for keyboard type: jis)",
   "rules": [
     {
-      "description": "新下駄配列 ver. 1.0 (for keyboard type: jis)",
+      "description": "新下駄配列 ver. 1.1 (for keyboard type: jis)",
       "manipulators": [
         {
           "type": "basic",
